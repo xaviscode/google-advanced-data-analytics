@@ -31,18 +31,18 @@ The certificate covers advanced data analytics, machine learning, and decision-m
 7. **Capstone Project** – In this final capstone project, you’ll apply your skills to a real-world business problem, integrating data visualization, statistics, regression models, and machine learning techniques.
 
 ## Repository Structure
-google-advanced-data-analytics
-│── README.md           # Repository overview
-│── LICENSE             # Licensing information
-│── Course_01           # Foundations of Data Science
-│   ├── Activities      # Hands-on exercises, quizzes, and code implementations
-│   ├── Final_Project   # Capstone project for the course
-│── Course_02           # Get Started with Python
-│── Course_03           # Go Beyond the Numbers: Translate Data into Insights
-│── Course_04           # The Power of Statistics
-│── Course_05           # Regression Analysis: Simplify Complex Data Relationships
-│── Course_06           # The Nuts and Bolts of Machine Learning
-│── Course_07           # Google Advanced Data Analytics Capstone
+    .
+    │── README.md           # Repository overview
+    │── LICENSE             # Licensing information
+    │── Course_01           # Foundations of Data Science
+    │   ├── Activities      # Hands-on exercises, quizzes, and code implementations
+    │   └── Final_Project   # Capstone project for the course
+    │── Course_02           # Get Started with Python
+    │── Course_03           # Go Beyond the Numbers: Translate Data into Insights
+    │── Course_04           # The Power of Statistics
+    │── Course_05           # Regression Analysis: Simplify Complex Data Relationships
+    │── Course_06           # The Nuts and Bolts of Machine Learning
+    └── Course_07           # Google Advanced Data Analytics Capstone
 
 Each course folder contains:
 - **Activities** – Exercises and coding implementations
@@ -67,6 +67,3 @@ Each course folder contains:
 
 ## License
 This repository is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
-## Contact
-- **LinkedIn:** [Your LinkedIn Profile](#)
